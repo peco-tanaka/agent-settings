@@ -4,7 +4,7 @@
 
 ## Tech Stack
 
-<!-- 使用技術をバージョン付きでリストアップする。コマンドにはフラグも含める -->
+<!-- 主要な使用技術をバージョン付きでリストアップする。「Reactプロジェクト」ではなく「React 18 + TypeScript + Vite + Tailwind CSS」のように具体的に書く。 -->
 
 - **Backend**:
 - **Frontend**:
