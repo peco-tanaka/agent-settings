@@ -1,5 +1,7 @@
 # AGENT設定ファイル群
 
+AI Agent codingに関する設定を集めることを目的としたリポジトリ
+
 ## GitHub Copilot 設定
 
 ### skillsの有効化
